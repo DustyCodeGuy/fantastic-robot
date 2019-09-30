@@ -3,4 +3,5 @@
 Hi everyone!
 
 Welcome to my starting coding project?
-Wait, why is there a Buscemi here?
+This is a simple tes of sorts
+Pardon the clutter
