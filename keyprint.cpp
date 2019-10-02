@@ -13,7 +13,7 @@ void keyprint(string input)
     int i;
     for (i = 0; i < s.length(); i++) {
         cout << s[i] << flush;
-        usleep(60000);
+        usleep(65000);
     }
     //cout << endl;
     usleep(750000);
