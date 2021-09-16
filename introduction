@@ -1,0 +1,7 @@
+int main() {
+
+std::cout << "Hello! Welcome to the game.\n";
+std::cout << "Today I will be walking you through some of the basics.\n";
+std::cout << "Let's get started, shall we?";
+
+}
